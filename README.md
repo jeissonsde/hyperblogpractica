@@ -1,2 +1,2 @@
 # hyperblogpractica
-nuevamente practicanco git y git hub
+nuevamente practicando git y git hub
